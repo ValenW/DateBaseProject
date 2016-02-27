@@ -14,7 +14,7 @@
 3.将通过键值查询得到的所有记录都输出到 testoutput.out 文件中。<br>
 
 #### 详细内容可参看
-[项目要求](https://github.com/ValenW/DateBaseProject/blob/master/课程设计.pdf)
+[项目要求](https://github.com/ValenW/DateBaseProject/blob/master/课程设计.pdf)和[实验报告](https://github.com/ValenW/DateBaseProject/blob/master/report.pdf)
 
 ###TODOS:
 - [x] **基本数据结构**
